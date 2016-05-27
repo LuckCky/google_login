@@ -18,7 +18,7 @@ To work with Google Spreadsheets I recommend gspread (https://github.com/burnash
 First you need to make some preparations.
 How to obtain OAuth2 credentials from Google Developers Console:
 
-1. Head to Google Developers Console and create a new project (or select the one you have.)
+1. Head to Google Developers Console (https://console.developers.google.com/iam-admin/projects) and create a new project (or select the one you have.)
 
 2. Under “API & auth”, in the API enable "Analytics API" and "Drive API"
 
