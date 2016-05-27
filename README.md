@@ -11,7 +11,7 @@ Also needed modules:
 
 3. httplib2
 
-4. oauth2client - any version (hopefully) will do, so you san keep using your favorite version without upgrading
+4. oauth2client - any version (hopefully) will do, so you can keep using your favorite version without upgrading
 
 To work with Google Spreadsheets I recommend gspread (https://github.com/burnash/gspread)
 
