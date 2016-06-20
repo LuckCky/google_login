@@ -3,7 +3,7 @@ import httplib2
 from googleapiclient.discovery import build
 
 class auth:
-    def __init__(self, json_key=json.load(open(r'C:\Users\User\Desktop\GA_everyday\My Project-ae8911df83b1.json'))):
+    def __init__(self, json_key=json.load(open(r'path to your json'))):
         self.json_key = json_key
         self.scope_ga = ['https://www.googleapis.com/auth/analytics.readonly']
         self.scope_gs = ['https://spreadsheets.google.com/feeds']
